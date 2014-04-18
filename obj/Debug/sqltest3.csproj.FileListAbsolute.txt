@@ -1,0 +1,25 @@
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\bin\Debug\sqltest3.exe.config
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\bin\Debug\Hospital.sdf
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\bin\Debug\sqltest3.exe
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\bin\Debug\sqltest3.pdb
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\obj\Debug\sqltest3.csprojResolveAssemblyReference.cache
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\obj\Debug\sqltest3.Form1.resources
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\obj\Debug\sqltest3.Properties.Resources.resources
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\obj\Debug\sqltest3.viewModifyPatientForm.resources
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\obj\Debug\sqltest3.csproj.GenerateResource.Cache
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\obj\Debug\sqltest3.exe
+C:\Users\Taylor\Documents\Visual Studio 2010\Projects\Create_Patient\sqltest3\obj\Debug\sqltest3.pdb
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\bin\Debug\sqltest3.exe.config
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\obj\Debug\sqltest3.exe
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\obj\Debug\sqltest3.pdb
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\bin\Debug\Hospital.sdf
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\bin\Debug\sqltest3.exe
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\bin\Debug\sqltest3.pdb
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\obj\Debug\sqltest3.csprojResolveAssemblyReference.cache
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\obj\Debug\sqltest3.Form1.resources
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\obj\Debug\sqltest3.Properties.Resources.resources
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\obj\Debug\sqltest3.viewModifyPatientForm.resources
+C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\obj\Debug\sqltest3.csproj.GenerateResource.Cache
+C:\temp\Create_Patient\sqltest3\bin\Debug\sqltest3.exe.config
+C:\temp\Create_Patient\sqltest3\obj\Debug\sqltest3.exe
+C:\temp\Create_Patient\sqltest3\obj\Debug\sqltest3.pdb
