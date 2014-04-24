@@ -23,3 +23,11 @@ C:\Users\localadmin\Desktop\Create_Patient\Create_Patient\sqltest3\obj\Debug\sql
 C:\temp\Create_Patient\sqltest3\bin\Debug\sqltest3.exe.config
 C:\temp\Create_Patient\sqltest3\obj\Debug\sqltest3.exe
 C:\temp\Create_Patient\sqltest3\obj\Debug\sqltest3.pdb
+C:\Temp\Create_Patient\sqltest3\bin\Debug\Hospital.sdf
+C:\Temp\Create_Patient\sqltest3\bin\Debug\sqltest3.exe
+C:\Temp\Create_Patient\sqltest3\bin\Debug\sqltest3.pdb
+C:\Temp\Create_Patient\sqltest3\obj\Debug\sqltest3.csprojResolveAssemblyReference.cache
+C:\Temp\Create_Patient\sqltest3\obj\Debug\sqltest3.Form1.resources
+C:\Temp\Create_Patient\sqltest3\obj\Debug\sqltest3.Properties.Resources.resources
+C:\Temp\Create_Patient\sqltest3\obj\Debug\sqltest3.viewModifyPatientForm.resources
+C:\Temp\Create_Patient\sqltest3\obj\Debug\sqltest3.csproj.GenerateResource.Cache
